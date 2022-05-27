@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/23. Burnout 3 - Ozone.mp3-f22f9846176861252a91aba0f44628ee.mp3str"
+
+[deps]
+
+source_file="res://audios/23. Burnout 3 - Ozone.mp3"
+dest_files=[ "res://.import/23. Burnout 3 - Ozone.mp3-f22f9846176861252a91aba0f44628ee.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

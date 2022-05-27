@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Bam.mp3-bb2351042d81629c377257e1199367ea.mp3str"
+
+[deps]
+
+source_file="res://audios/Bam/Bam.mp3"
+dest_files=[ "res://.import/Bam.mp3-bb2351042d81629c377257e1199367ea.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
