@@ -30,6 +30,7 @@ Es un juego de disparar misiles contra naves enemigas y asteroides peligrosos. T
 ![Imagen2](https://jimdo-storage.freetls.fastly.net/image/306209027/2f0cdbd9-fbe4-4e9d-b57e-0e2680fecf4b.png?quality=80,90&auto=webp&disable=upscale&width=1280&height=788&trim=0,0,0,0)
 
 ## Conclusiones
+Fue una experiencia muy agradable y nueva el desarrollar con otras IDEs y conceptos nuevos. No me veo haciedo juegos, pero si diseñando sus conceptos e interfazes. 
 
 ## Referencias
 [Repositorio Original](https://github.com/AlbertoPachecoDev/MovingTargetGame.git)
